@@ -159,7 +159,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[IROS](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8594299)] LeGO-LOAM: Lightweight and Ground-Optimized Lidar Odometry and Mapping on Variable Terrain.[[code](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM)] [__`pos.`__ __`oth.`__] :fire:
 - [[IROS](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8593741)] Classification of Hanging Garments Using Learned Features Extracted from 3D Point Clouds. [__`cls.`__]
 - [[IROS](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8594362)] Stereo Camera Localization in 3D LiDAR Maps. [__`pos.`__ __`oth.`__]
-- [[IROS](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8594362)] Joint 3D Proposal Generation and Object Detection from View Aggregation. [__`det.`__] :star:
+- [[IROS](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8594049)] Joint 3D Proposal Generation and Object Detection from View Aggregation. [__`det.`__] :star:
 - [[IROS](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8594318)] Joint Point Cloud and Image Based Localization for Efficient Inspection in Mixed Reality. [__`oth.`__]
 - [[IROS](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8593910)] Edge and Corner Detection for Unorganized 3D Point Clouds with Application to Robotic Welding. [__`det.`__ __`oth.`__]
 - [[IROS](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8594175)] NDVI Point Cloud Generator Tool Using Low-Cost RGB-D Sensor. [[code](https://github.com/CTTCGeoLab/VI_ROS)][__`oth.`__]
@@ -425,7 +425,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[AAAI](https://arxiv.org/pdf/1912.05163.pdf)] TANet: Robust 3D Object Detection from Point Clouds with Triple Attention. [[code](https://github.com/happinesslz/TANet)] [__`det.`__ __`aut.`__]
 - [[AAAI](https://arxiv.org/abs/1912.10775)] Point2Node: Correlation Learning of Dynamic-Node for Point Cloud Feature Modeling. [__`seg.`__ __`cls.`__]
 - [[AAAI](https://arxiv.org/abs/1811.09361)] PRIN: Pointwise Rotation-Invariant Network. [__`seg.`__ __`cls.`__]
--
+- [[CVPR](https://arxiv.org/abs/1912.00497)] Just Go with the Flow: Self-Supervised Scene Flow Estimation. [[code](https://github.com/HimangiM/Just-Go-with-the-Flow-Self-Supervised-Scene-Flow-Estimation)][__`aut.`__ __`oth.`__]
 - [[CVPR](https://arxiv.org/abs/1912.00195)] SGAS: Sequential Greedy Architecture Search. [[code](https://github.com/lightaime/sgas)] [__`cls.`__ __`oth.`__]
 - [[CVPR](https://arxiv.org/pdf/1911.11236.pdf)] RandLA-Net: Efficient Semantic Segmentation of Large-Scale Point Clouds. [[tensorflow](https://github.com/QingyongHu/RandLA-Net)] [__`seg.`__] 
 - [[CVPR](https://arxiv.org/abs/2001.05119)] Learning multiview 3D point cloud registration. [[code](https://github.com/zgojcic/3D_multiview_reg)] [__`reg.`__]
@@ -446,6 +446,22 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[ECCV](https://arxiv.org/pdf/2007.10985.pdf)] PointContrast: Unsupervised Pre-training for 3D Point Cloud Understanding. [__`cls.`__ __`seg.`__ __`det.`__]
 - [[ECCV](https://arxiv.org/abs/2003.10826)] DeepFit: 3D Surface Fitting via Neural Network Weighted Least Squares. [[code](https://github.com/sitzikbs/DeepFit)] [__`oth.`__]
 - [[ECCV](https://arxiv.org/abs/2004.11784v2)] DPDist: Comparing Point Clouds Using Deep Point Cloud Distance. [[code](https://github.com/dahliau/DPDist)] [__`oth.`__]
+- 
+- [[IROS](https://hal.inria.fr/hal-02927350/document)] GndNet: Fast Ground Plane Estimation and Point Cloud Segmentation for Autonomous Vehicles. [[code](https://github.com/anshulpaigwar/GndNet)] [__`seg.`__ __`aut.`__]
+- 
+- [[ICLR](https://arxiv.org/pdf/2002.00118.pdf)] AdvectiveNet: An Eulerian-Lagrangian Fluidic Reservoir for Point Cloud Processing. [[code](https://github.com/xingzhehe/AdvectiveNet-An-Eulerian-Lagrangian-Fluidic-Reservoir-for-Point-Cloud-Processing)][__`cls.`__ __`seg.`__]
+- [[arXiv](https://arxiv.org/abs/2006.04569)] Parameter-Efficient Person Re-identification in the 3D Space. [[code]](https://github.com/layumi/person-reid-3d)[__`rel.`__] :fire:
+
+## 2021
+- [[ICLR](https://openreview.net/pdf?id=O3bqkf_Puys)] PSTNet: Point Spatio-Temporal Convolution on Point Cloud Sequences. [__`cls.`__ __`seg.`__]
+- 
+- [[CVPR](https://hehefan.github.io/pdfs/p4transformer.pdf)] Point 4D Transformer Networks for Spatio-Temporal Modeling in Point Cloud Videos. [[code](https://github.com/hehefan/P4Transformer)][__`cls.`__ __`seg.`__]
+- [[CVPR](https://arxiv.org/pdf/2012.00987)] PV-RAFT: Point-Voxel Correlation Fields for Scene Flow Estimation of Point Clouds. [[code](https://github.com/weiyithu/PV-RAFT)][__`oth.`__]
+- 
+- [[ICRA](https://arxiv.org/abs/2105.07647)] FGR: Frustum-Aware Geometric Reasoning for Weakly Supervised 3D Vehicle Detection. [[code](https://github.com/weiyithu/FGR)][__`det.`__ __`seg.`__]
+- 
+- [[ICCV](https://openaccess.thecvf.com/content/ICCV2021/papers/Hamdi_MVTN_Multi-View_Transformation_Network_for_3D_Shape_Recognition_ICCV_2021_paper.pdf)] MVTN: Multi-View Transformation Network for 3D Shape Recognition. [[code](https://github.com/ajhamdi/MVTN)][__`det.`__ __`rel.`__]
+
 <h1> 
 
 ```diff
